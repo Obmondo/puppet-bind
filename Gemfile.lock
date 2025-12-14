@@ -19,6 +19,7 @@ GEM
       rspec (>= 2.9.0)
       rspec-puppet (>= 0.1.1)
     rake (10.0.4)
+    rexml (3.4.4)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
@@ -38,4 +39,8 @@ DEPENDENCIES
   puppet-lint
   puppetlabs_spec_helper
   rake
+  rexml (>= 3.3.9)
   rspec-puppet
+
+BUNDLED WITH
+   2.6.9
